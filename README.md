@@ -14,7 +14,7 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penetration testing and credential retrieval  | <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>|
-| CIA Triads,Risks,Linux Commands,Vulnerabilities| <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">Detection Lab</a>|
+| CIA Triads,Risks,Linux Commands,Vulnerabilities| <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>|
 
 
 
