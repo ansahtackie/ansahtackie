@@ -13,7 +13,7 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|               | <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>|
+| Penetration testing and credential retrieval  | <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
