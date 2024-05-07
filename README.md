@@ -44,7 +44,7 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 
 ## Projects
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
-- The Permission Problem
+- <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
 - Pre-Onboarding Runbook
 - Walk Through Before You Run Through
 
