@@ -8,7 +8,7 @@ Detail-oriented and analytical entry-level Cybersecurity Analyst, equipped with 
 ## Objective
 My goal is to start an entry-level position as a Cybersecurity/Information Security Analyst, Security Operations Center (SOC) Analyst, a GRC Specialist, or Penetration Tester to begin a journey of continuous learning and growth in cybersecurity. I am eager to contribute to organizational goals but equally eager to learn from others in the cybersecurity community, recognizing that their insights and experiences can further enhance my skills and knowledge.
 
-## Projects
+## Projects (Career simulations completed during Boot Camp)
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
 - <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
 - <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook</a>
