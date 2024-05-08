@@ -45,12 +45,5 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-
 </div>
-
-## Projects
-- <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
-- <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
-- <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook</a>
-- <a href="https://github.com/ansahtackie/Walk-Through-Before-You-Run-Through/tree/main">Walk Through Before You Run Through</a>
 
