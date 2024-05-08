@@ -26,17 +26,17 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 
 
 
-## Tools (To be updated)
+## Tools 
 
-### Network (To be updated)
+### Network *(To be updated)*
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint (To be updated)
+### Endpoint *(To be updated)*
 
 
-### SIEM (To be updated)
+### SIEM *(To be updated)*
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
