@@ -15,6 +15,7 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 |-----------------------------------------------|----------------------------|
 | Penetration testing and credential retrieval  | <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>|
 | CIA Triads,Risks,Linux Commands,Vulnerabilities| <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>|
+|Windows opearting system and active directory  |<a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook</a> |
 
 
 
@@ -45,6 +46,6 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 ## Projects
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
 - <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
-- Pre-Onboarding Runbook
+- <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook</a>
 - Walk Through Before You Run Through
 
