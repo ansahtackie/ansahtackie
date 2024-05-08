@@ -1,7 +1,7 @@
 # Hello, I'm Nii Tackie
 <a href="https://linkedin.com/in/niiansahtackie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Detail-oriented and analytical entry-level Cybersecurity Analyst, equipped with comprehensive knowledge gained from the Fullstac Academy cybersecurity program and 7 years of experience as an accomplished assistant professor of math education and researcher!
+Detail-oriented and analytical entry-level Cybersecurity Analyst, equipped with comprehensive knowledge gained from the Fullstac Academy cybersecurity program and 7 years of experience as an accomplished assistant professor of math education and researcher! 
 
 
 ## Objective
