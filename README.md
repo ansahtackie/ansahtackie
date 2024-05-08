@@ -49,6 +49,23 @@ Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensiv
 </div>
 
 
+## Additional Skills
+<div>
+   <img src="https://img.shields.io/badge/-NIST-3D85C6?&style=for-the-badge&logo=NIST&logoColor=white" />
+   <img src="https://img.shields.io/badge/-FISMA-FF7F00?&style=for-the-badge&logo=FISMA&logoColor=white" />
+   <img src="https://img.shields.io/badge/-HIPAA-008000?&style=for-the-badge&logo=HIPAA&logoColor=white" />
+   <img src="https://img.shields.io/badge/-HITRUST-0069AA?&style=for-the-badge&logo=HITRUST&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PCI_DSS-4B0082?&style=for-the-badge&logo=PCI_DSS&logoColor=white" />
+   <img src="https://img.shields.io/badge/-POA%26M-FFA500?&style=for-the-badge&logo=POA%26M&logoColor=white" />
+   <img src="https://img.shields.io/badge/-CISM-006699?&style=for-the-badge&logo=CISM&logoColor=white" />
+   
+    
+</div>
+
+
+
+
+
 ## Certifications
 
 <div>
