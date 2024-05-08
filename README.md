@@ -9,7 +9,6 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
