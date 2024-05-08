@@ -12,7 +12,7 @@ My goal is to start an entry-level position as a Cybersecurity/Information Secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Penetration testing and credential retrieval  | <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>|
+| Penetration Testing, Retreiving Credentials   | <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>|
 | CIA Triads,Risks,Linux Commands,Vulnerabilities|<a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>|
 |Windows, Active Directory, Onboarding Runbook  | <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook</a> |
 |Linux Commands, Research, Problem Solving      | <a href="https://github.com/ansahtackie/Walk-Through-Before-You-Run-Through/tree/main">Walk Through Before You Run Through</a>
