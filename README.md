@@ -5,8 +5,11 @@
 <a href="https://linkedin.com/in/niiansahtackie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## Objective
-My goal is to start an entry-level position as a Cybersecurity/Information Security Analyst, Security Operations Center (SOC) Analyst, a GRC Specialist, or Penetration Tester to begin a journey of continuous learning and growth in cybersecurity. I am eager to contribute to organizational goals but equally eager to learn from others in the cybersecurity community, recognizing that their insights and experiences can further enhance my skills and knowledge.
+## Summary
+
+Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensive knowledge from an immersive cybersecurity boot camp and 7 years of experience as an accomplished Assistant Professor of math education and researcher. Excellent communication skills, with a proven track record of collaborating with diverse teams to achieve common goals. Eager to leverage academic expertise and practical skills to contribute to organizational security and safeguard against emerging cyber risks. My goal is to start a role as a Cybersecurity/Information Security Analyst, Security Operations Center (SOC) Analyst, a GRC Specialist, or Penetration Tester to begin a journey of continuous learning and growth in cybersecurity. 
+
+
 
 ## Projects (Career simulations completed during Boot Camp)
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
