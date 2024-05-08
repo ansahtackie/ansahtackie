@@ -6,8 +6,7 @@
 
 
 ## Summary
-
-Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensive knowledge from an immersive cybersecurity boot camp and 7 years of experience as an accomplished Assistant Professor of math education and researcher. Excellent communication skills, with a proven track record of collaborating with diverse teams to achieve common goals. Eager to leverage academic expertise and practical skills to contribute to organizational security and safeguard against emerging cyber risks. My goal is to start a role as a Cybersecurity/Information Security Analyst, Security Operations Center (SOC) Analyst, a GRC Specialist, or Penetration Tester to begin a journey of continuous learning and growth in cybersecurity. 
+Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensive knowledge from an immersive cybersecurity Bootcamp and 7 years of experience as an accomplished Assistant Professor of math education and researcher. Excellent communication skills, with a proven track record of collaborating with diverse teams to achieve common goals. Eager to leverage academic expertise and practical skills to contribute to organizational security and safeguard against emerging cyber risks.
 
 
 
@@ -44,8 +43,7 @@ Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensiv
     <img src="https://img.shields.io/badge/-Mimikatz-8B008B?&style=for-the-badge&logo=Mimikatz&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory-00BFFF?&style=for-the-badge&logo=ActiveDirectory&logoColor=white" />
     <img src="https://img.shields.io/badge/-Networking-008080?&style=for-the-badge&logo=Networking&logoColor=white" />
-    
-    
+    <img src="https://img.shields.io/badge/-Risk_Management-FF5733?&style=for-the-badge&logo=Risk_Management&logoColor=white" />    
 </div>
 
 
