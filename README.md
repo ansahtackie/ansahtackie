@@ -1,7 +1,9 @@
 # Hello and Welcome!
 # Meet Nii Tackie 
 
-# Email: ansahtackie@yahoo.com 
+# Contact Information: 
+## Email: ansahtackie@yahoo.com             
+## Phone: 612-876-1906
 
 
 <a href="https://linkedin.com/in/niiansahtackie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
