@@ -8,7 +8,16 @@
 
 
 ## Summary
-Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensive knowledge from an immersive cybersecurity Bootcamp and 7 years of experience as an accomplished Assistant Professor of math education and researcher. Excellent communication skills, with a proven track record of collaborating with diverse teams to achieve common goals. Eager to leverage academic expertise and practical skills to contribute to organizational security and safeguard against emerging cyber risks.
+Driven and analytical Cybersecurity Analyst, equipped with comprehensive knowledge from an immersive Cybersecurity Bootcamp and Certified Information Security Manager (CISM) program, along with seven years of experience as an Assistant Professor of math education and researcher. Proven communication and collaboration skills with a strong track record of working with diverse teams to achieve organizational goals.
+
+
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
 
 
 
@@ -25,6 +34,26 @@ Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensiv
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Communication_Skills-1679A7?&style=for-the-badge&logo=Communication&logoColor=white" />
+<img src="https://img.shields.io/badge/-Information_Security-1679A7?&style=for-the-badge&logo=Information_Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Collaboration-1679A7?&style=for-the-badge&logo=Collaboration&logoColor=white" />
+<img src="https://img.shields.io/badge/-Compliance-1679A7?&style=for-the-badge&logo=Compliance&logoColor=white" />    
+<img src="https://img.shields.io/badge/-Vulnerability_Assessment-1679A7?&style=for-the-badge&logo=Vulnerability_Assessment&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity-1679A7?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Innovation-1679A7?&style=for-the-badge&logo=Innovation&logoColor=white" />
+<img src="https://img.shields.io/badge/-Detail_Oriented-1679A7?&style=for-the-badge&logo=Detail_Oriented&logoColor=white" />
+<img src="https://img.shields.io/badge/-Problem_Solving-1679A7?&style=for-the-badge&logo=Problem_Solving&logoColor=white" />
+<img src="https://img.shields.io/badge/-Analysis-1679A7?&style=for-the-badge&logo=Analysis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scripting-FFA500?&style=for-the-badge&logo=Scripting&logoColor=white" />
+<img src="https://img.shields.io/badge/-Controls_and_Frameworks-FFA500?&style=for-the-badge&logo=Controls_and_Frameworks&logoColor=white" />
+<img src="https://img.shields.io/badge/-Operating_Systems-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Incident_Response-FF5733?&style=for-the-badge&logo=Incident_Response&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network_Security-008080?&style=for-the-badge&logo=Network_Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Threat_Intelligence-8B0000?&style=for-the-badge&logo=Threat_Intelligence&logoColor=white" />
+<img src="https://img.shields.io/badge/-Regulatory_Guidelines-FF5733?&style=for-the-badge&logo=Regulatory_Guidelines&logoColor=white" />
+<img src="https://img.shields.io/badge/-Critical_Thinking-FFD700?&style=for-the-badge&logo=Critical_Thinking&logoColor=white" />
+<img src="https://img.shields.io/badge/-Adaptability-FFA500?&style=for-the-badge&logo=Adaptability&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Risk_Management-FF5733?&style=for-the-badge&logo=Risk_Management&logoColor=white" />      
     <img src="https://img.shields.io/badge/-Snort-990000?&style=for-the-badge&logo=Snort&logoColor=white">
     <img src="https://img.shields.io/badge/-Nmap-990000?&style=for-the-badge&logo=Nmap&logoColor=white">
     <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white">
@@ -44,8 +73,7 @@ Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensiv
     <img src="https://img.shields.io/badge/-Endpoint_Detection_and_Response-4B0082?&style=for-the-badge&logo=EDR&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mimikatz-8B008B?&style=for-the-badge&logo=Mimikatz&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory-00BFFF?&style=for-the-badge&logo=ActiveDirectory&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Networking-008080?&style=for-the-badge&logo=Networking&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Risk_Management-FF5733?&style=for-the-badge&logo=Risk_Management&logoColor=white" />    
+  
 </div>
 
 
@@ -57,7 +85,7 @@ Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensiv
    <img src="https://img.shields.io/badge/-HITRUST-0069AA?&style=for-the-badge&logo=HITRUST&logoColor=white" />
    <img src="https://img.shields.io/badge/-PCI_DSS-4B0082?&style=for-the-badge&logo=PCI_DSS&logoColor=white" />
    <img src="https://img.shields.io/badge/-POA%26M-FFA500?&style=for-the-badge&logo=POA%26M&logoColor=white" />
-   <img src="https://img.shields.io/badge/-CISM-006699?&style=for-the-badge&logo=CISM&logoColor=white" />
+
    
     
 </div>
@@ -65,11 +93,4 @@ Detail-oriented and analytical Cybersecurity Analyst, equipped with comprehensiv
 
 
 
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-</div>
 
