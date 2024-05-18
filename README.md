@@ -29,7 +29,7 @@ Driven and analytical Cybersecurity Analyst, equipped with comprehensive knowled
 
 
 
-## Technical Skills 
+## Skills 
 
 
 <div>
@@ -87,6 +87,13 @@ Driven and analytical Cybersecurity Analyst, equipped with comprehensive knowled
 </div>
 
 
+## Cyber and Information Security Training
+- Immersive Cybersecurity Analytic Bootcamp – Fullstack Academy (Live online training)
+- Amazon Web Service (AWS) Security Essentials –Fullstack Academy (Live online training)
+- Certified Information Security Manager (CISM) Program — University of Louisiana at Lafayette Powered by ed2go.
+- Cybersecurity for Everyone — University of Maryland Powered by Coursera
+- Introduction to Cybersecurity Tools & Cyber Attacks — IBM Powered by Coursera
+- Information Security Analyst Training — Intec Logic Global (Live online training)
 
 
 
