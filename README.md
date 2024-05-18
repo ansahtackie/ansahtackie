@@ -1,5 +1,5 @@
 # Hello and Welcome!
-# Meet Nii Tackie 
+# Meet Nii Tackie (Cybersecurity Analyst, Information Security Analyst, SOC Analyst)
 
 # Contact Information: 
 ## Email: ansahtackie@yahoo.com             
