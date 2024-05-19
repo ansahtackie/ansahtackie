@@ -10,8 +10,7 @@
 
 
 ## Summary
-Driven and analytical Cybersecurity Analyst, equipped with comprehensive knowledge from an immersive Cybersecurity Bootcamp and Certified Information Security Manager (CISM) program, along with seven years of experience as an Assistant Professor of math education and researcher. Proven communication and collaboration skills with a strong track record of working with diverse teams to achieve organizational goals.
-
+Driven and analytical Cybersecurity Analyst with comprehensive expertise and hands-on experience from Fullstack Academy’s immersive cybersecurity bootcamp and the Certified Information Security Manager (CISM) program. Brings seven years of experience as a college math instructor and researcher. Demonstrates strong communication and collaboration skills, with a proven ability to work with diverse teams to achieve organizational goals.
 
 
 ## Certifications
