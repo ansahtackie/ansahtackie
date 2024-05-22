@@ -26,7 +26,7 @@ Driven and analytical Cybersecurity Analyst with comprehensive expertise and han
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
 - <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
 - <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook</a>
-- <a href="https://github.com/ansahtackie/Walk-Through-Before-You-Run-Through/tree/main">Walk Through Before You Run Through</a>
+- <a href="https://github.com/ansahtackie/Walk-Through-Before-You-Run-Through/tree/main">Hack The Box Challenge Walkthrough</a>
 
 
 
@@ -89,12 +89,12 @@ Driven and analytical Cybersecurity Analyst with comprehensive expertise and han
 
 
 ## Cyber and Information Security Training
-- Immersive Cybersecurity Analytic Bootcamp – Fullstack Academy (Live online training)
-- Amazon Web Service (AWS) Security Essentials –Fullstack Academy (Live online training)
-- Certified Information Security Manager (CISM) Program — University of Louisiana at Lafayette Powered by ed2go.
-- Cybersecurity for Everyone — University of Maryland Powered by Coursera
-- Introduction to Cybersecurity Tools & Cyber Attacks — IBM Powered by Coursera
-- Information Security Analyst Training — Intec Logic Global (Live online training)
+- #### Immersive Cybersecurity Analytic Bootcamp – Fullstack Academy (Live online training)
+- #### Amazon Web Service (AWS) Security Essentials –Fullstack Academy (Live online training)
+- #### Certified Information Security Manager (CISM) Program — Uni. of Louisiana at Lafayette Powered by ed2go.
+- #### Cybersecurity for Everyone — University of Maryland Powered by Coursera
+- ##### Introduction to Cybersecurity Tools & Cyber Attacks — IBM Powered by Coursera
+- #### Information Security Analyst Training — Intec Logic Global (Live online training)
 
 
 
