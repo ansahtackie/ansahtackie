@@ -1,4 +1,5 @@
-# Hello and Welcome!
+# Hello and welcome to my page!
+
 # Meet Nii Tackie (Cybersecurity Analyst, Information Security Analyst, SOC Analyst)
 
 # Contact Information: 
