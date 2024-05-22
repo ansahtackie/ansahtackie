@@ -14,7 +14,7 @@
 Driven and analytical Cybersecurity Analyst with comprehensive expertise and hands-on experience from Fullstack Academy’s immersive cybersecurity bootcamp and the Certified Information Security Manager (CISM) program. Brings seven years of experience as a college math instructor and researcher. Demonstrates strong communication and collaboration skills, with a proven ability to work with diverse teams to achieve organizational goals.
 
 
-## Certifications
+## Certifications Earned 
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -23,7 +23,7 @@ Driven and analytical Cybersecurity Analyst with comprehensive expertise and han
 
 
 
-## Projects (Career simulations completed during Boot Camp)
+## Career Simulation Projects Completed During Boot Camp
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
 - <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
 - <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook | Windows System Administrator</a>
