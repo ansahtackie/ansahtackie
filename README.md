@@ -88,13 +88,14 @@ Driven and analytical Cybersecurity Analyst with comprehensive expertise and han
 </div>
 
 
-## Cyber and Information Security Training
-- #### Immersive Cybersecurity Analytic Bootcamp – Fullstack Academy (Live online training)
-- #### Amazon Web Service (AWS) Security Essentials –Fullstack Academy (Live online training)
-- #### Certified Information Security Manager (CISM) Program — Uni. of Louisiana at Lafayette Powered by ed2go.
-- #### Cybersecurity for Everyone — University of Maryland Powered by Coursera
-- ##### Introduction to Cybersecurity Tools & Cyber Attacks — IBM Powered by Coursera
-- #### Information Security Analyst Training — Intec Logic Global (Live online training)
+# Cyber and Information Security Training
+- ### Immersive Cybersecurity Analytic Bootcamp – Fullstack Academy (Live online training)
+- ### Amazon Web Service (AWS) Security Essentials –Fullstack Academy (Live online training)
+- ### Certified Information Security Manager (CISM) Program — Uni. of Louisiana at Lafayette Powered by ed2go.
+- ### Information Security Analyst Training — Intec Logic Global (Live online training)
+- ### Cybersecurity for Everyone — University of Maryland Powered by Coursera
+- ### Introduction to Cybersecurity Tools & Cyber Attacks — IBM Powered by Coursera
+
 
 
 
