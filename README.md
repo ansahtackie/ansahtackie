@@ -27,7 +27,7 @@ Driven and analytical Cybersecurity Analyst with comprehensive expertise and han
 - <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
 - <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook | Windows System Administrator</a>
 - <a href="https://github.com/ansahtackie/Walk-Through-Before-You-Run-Through/tree/main">Hack The Box Challenge Walkthrough</a>
-- <a href="https://github.com/ansahtackie/Python-Scripts">Python Scripts</a>
+- <a href="https://github.com/ansahtackie/Python-Scripts/blob/main/Nii%20Tackie_Technical%20Assessment_Unit%204.pdf">Sample Python Scripts</a>
 
 
 
