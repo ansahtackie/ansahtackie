@@ -22,7 +22,7 @@ Driven and analytical Cybersecurity Analyst with comprehensive expertise and han
 
 
 
-## Career Simulation Projects Completed During Boot Camp
+## Sample Hands-On Projects 
 - <a href="https://github.com/ansahtackie/Penetration-Testing/tree/main">Penetration Testing</a>
 - <a href="https://github.com/ansahtackie/The-Permission-Problem/tree/main">The Permission Problem</a>
 - <a href="https://github.com/ansahtackie/Pre-onboarding-Runbook/tree/main">Pre-onborading Runbook | Windows System Administrator</a>
