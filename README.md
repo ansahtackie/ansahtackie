@@ -1,4 +1,4 @@
-# Hello and welcome to my page!
+# Hello I'm Nii Tackie
 
 # Meet Nii Tackie (Cybersecurity Analyst, Information Security Analyst, SOC Analyst, GRC Analyst)
 
